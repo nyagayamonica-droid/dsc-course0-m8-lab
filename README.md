@@ -1,5 +1,4 @@
 # Aviation Accident Analysis
-# Aviation Accident Analysis
 **Project Overview**
 
 This project analyzes aviation accident data from 1948–2023 to evaluate aircraft safety performance across manufacturers and airplane models. The analysis was conducted from the perspective of a consulting firm advising an airline/aircraft insurer interested in identifying aircraft associated with:
@@ -118,6 +117,5 @@ engine configuration,
 and aircraft size.
 
 Accidents occurring during certain flight phases and under adverse weather conditions tended to produce more severe outcomes.
-
 
 
